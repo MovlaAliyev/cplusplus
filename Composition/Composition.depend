@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490209249 source:c:\users\javatarr\desktop\Ñ++\composition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"Person.h"
+
+1490208695 c:\users\javatarr\desktop\Ñ++\composition\include\birthday.h
+
+1490209398 c:\users\javatarr\desktop\Ñ++\composition\include\person.h
+	<string>
+	"Birthday.h"
+
+1490208844 source:c:\users\javatarr\desktop\Ñ++\composition\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
