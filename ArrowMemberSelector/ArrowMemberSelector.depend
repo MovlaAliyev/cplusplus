@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490206801 source:c:\users\javatarr\desktop\Ñ++\arrowmemberselector\main.cpp
+	<iostream>
+	"Person.h"
+
+1490206730 c:\users\javatarr\desktop\Ñ++\arrowmemberselector\include\person.h
+
+1490206823 source:c:\users\javatarr\desktop\Ñ++\arrowmemberselector\src\person.cpp
+	"Person.h"
+	<iostream>
+
