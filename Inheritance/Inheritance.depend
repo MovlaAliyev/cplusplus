@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1490555352 source:c:\users\javatarr\desktop\Ñ++\inheritance\main.cpp
+	<iostream>
+	"Person.h"
+	"TestPerson.h"
+
+1490555237 c:\users\javatarr\desktop\Ñ++\inheritance\include\person.h
+
+1490555380 c:\users\javatarr\desktop\Ñ++\inheritance\include\testperson.h
+
+1490555600 source:c:\users\javatarr\desktop\Ñ++\inheritance\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1490555588 source:c:\users\javatarr\desktop\Ñ++\inheritance\src\testperson.cpp
+	"Person.h"
+	"TestPerson.h"
+
