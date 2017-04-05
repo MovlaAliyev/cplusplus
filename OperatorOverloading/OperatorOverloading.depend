@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490304237 source:c:\users\javatarr\desktop\Ñ++\operatoroverloading\src\person.cpp
+	"Person.h"
+
+1490303582 c:\users\javatarr\desktop\Ñ++\operatoroverloading\include\person.h
+
+1490304157 source:c:\users\javatarr\desktop\Ñ++\operatoroverloading\main.cpp
+	<iostream>
+	"Person.h"
+
