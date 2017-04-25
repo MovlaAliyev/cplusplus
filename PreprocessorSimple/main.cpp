@@ -2,12 +2,9 @@
 #include "Movies_t.h"
 using namespace std;
 
-
 void printmovie(movies_t movie);
 
-int main()
-{
-
+int main() {
     string mystr;
 
     mine.title = "2001 a space odyssey";
