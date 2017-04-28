@@ -15,7 +15,6 @@ int main() {
 
     while(from <= to)
         cout << from++ << " ";
-
-
+    
     return 0;
 }
