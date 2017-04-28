@@ -7,8 +7,7 @@ Write a program that uses a while to sum the numbers from
 
 using namespace std;
 
-int main()
-{
+int main(){
     int sum = 0;
     int i   = 50;
 
