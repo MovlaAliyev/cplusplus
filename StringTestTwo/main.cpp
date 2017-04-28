@@ -14,6 +14,5 @@ int main()
     cout << punct_cnt
          << " punctuation characters in " << test << endl;
 
-
     return 0;
 }
