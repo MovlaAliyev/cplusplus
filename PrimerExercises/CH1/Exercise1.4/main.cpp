@@ -9,8 +9,12 @@ the product instead.
 using namespace std;
 
 int main() {
-    int v1 = 2;
-    int v2 = 3;
+    int v1;
+    int v2;
+    
+    cin >> v1;
+    cin >> v2;
+    
     cout << "answer = " << v1 * v2 << endl;
     return 0;
 }
