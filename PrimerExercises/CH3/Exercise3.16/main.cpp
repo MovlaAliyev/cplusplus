@@ -1,17 +1,7 @@
 /*
-vector<int> v1;
-(b) vector<int> v2(10);
-(c) vector<int> v3(10, 42);
-(d) vector<int> v4{10};
-(e) vector<int> v5{10, 42};
-(f) vector<string> v6{10};
-(g) vector<string> v7{10, "hi"};
-*/
-
-/*
 Write a program to print the size and contents of the
 vectors from exercise 3.13. Check whether your answers to that exercise
-were correct. If not, restudy ง 3.3.1 (p. 97) until you understand why you
+were correct. If not, restudy ยง 3.3.1 (p. 97) until you understand why you
 were wrong.
 */
 
