@@ -38,12 +38,12 @@ void sum_symmetric(vector<int> v){
 }
 
 int main(){
+    
     int i;
     vector<int> v;
 
     while(cin >> i)
         v.push_back(i);
-
 
     sum_adjacent(v);
     sum_firstLast(v);
