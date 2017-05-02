@@ -1,6 +1,6 @@
 /*
 Read a sequence of words from cin and store the values a
-vector. After you’ve read all the words, process the vector and change
+vector. After youâ€™ve read all the words, process the vector and change
 each word to uppercase. Print the transformed elements, eight words to a
 line.
 */
@@ -25,9 +25,9 @@ int main()
         for(auto &b: a)
             b = toupper(b);
 
-    for(int i = 0; i < word.size(); i++){
+    for(decltype(word.size()) i = 0; i < word.size(); i++){
          cout << word[i] << '\t';
-         if((i+1)%8 == 0)
+         if((i+1) % 8 == 0)
             cout << endl;
     }
 
